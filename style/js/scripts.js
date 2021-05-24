@@ -663,7 +663,7 @@ $(document).ready(function() {
 		shadow: 0,
 		gridwidth: [1240, 1024, 778, 480],
 		gridheight: [700, 700, 800, 600],
-		responsiveLevels: [1240, 1024, 778, 480],
+		responsiveLevels: [1240, 1024, 778, 300],
 		disableProgressBar: "on",
 		navigation: {
 			keyboardNavigation: 'on',
@@ -787,8 +787,8 @@ $(document).ready(function() {
 		delay: 3000,
 		shadow: 0,
 		gridwidth: [1240, 1024, 778, 480],
-		gridheight: [450, 750, 750, 700],
-		responsiveLevels: [1240, 1024, 778, 480],
+		gridheight: [300, 750, 750, 700],
+		responsiveLevels: [1240, 910, 778, 480],
 		disableProgressBar: "on",
 		navigation: {
 			keyboardNavigation: 'on',
